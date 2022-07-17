@@ -75319,6 +75319,7 @@
 [/dmmapis.com/]https://dns.adguard.com/dns-query
 [/dmmbus.cam/]https://dns.adguard.com/dns-query
 [/dmmbus.com/]https://dns.adguard.com/dns-query
+[/dmmrex.com/]https://dns.adguard.com/dns-query
 [/dmyoutube.com/]https://dns.adguard.com/dns-query
 [/dnaindia.com/]https://dns.adguard.com/dns-query
 [/dnbwg.com/]https://dns.adguard.com/dns-query
