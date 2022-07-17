@@ -12249,6 +12249,7 @@
 @@||nmac.to/cdn-cgi/pe/bag2?r[]=*histats.com
 @@||nmac.to^$generichide
 @@||nmac.to^$ghide
+@@||nmobi.kuwo.cn^
 @@||nnmclub.to/forum/misc/html/advert.html$~third-party
 @@||no-ip.com^
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
