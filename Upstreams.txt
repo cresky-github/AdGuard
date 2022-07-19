@@ -3121,7 +3121,6 @@
 [/36kr.net/]https://doh.pub/dns-query
 [/36krcdn.com/]https://doh.pub/dns-query
 [/36krcnd.com/]https://doh.pub/dns-query
-[/36mh.com/]https://doh.pub/dns-query
 [/36nu.com/]https://doh.pub/dns-query
 [/36sfw.com/]https://doh.pub/dns-query
 [/36tr.com/]https://doh.pub/dns-query
@@ -7422,7 +7421,6 @@
 [/aaayun.com/]https://doh.pub/dns-query
 [/aadongman.com/]https://doh.pub/dns-query
 [/aads-cng.net/]https://doh.pub/dns-query
-[/aaliyaheartha.com/]https://doh.pub/dns-query
 [/aamachina.org/]https://doh.pub/dns-query
 [/aaniao.com/]https://doh.pub/dns-query
 [/aapy38.com/]https://doh.pub/dns-query
@@ -8384,7 +8382,6 @@
 [/aleest.com/]https://doh.pub/dns-query
 [/alenshaw.com/]https://doh.pub/dns-query
 [/alertover.com/]https://doh.pub/dns-query
-[/alexandraeden.com/]https://doh.pub/dns-query
 [/alexyan.cc/]https://doh.pub/dns-query
 [/aleyoo.com/]https://doh.pub/dns-query
 [/alfeng.com/]https://doh.pub/dns-query
@@ -8490,7 +8487,6 @@
 [/aliqiche.com/]https://doh.pub/dns-query
 [/aliresearch.com/]https://doh.pub/dns-query
 [/alisoft.com/]https://doh.pub/dns-query
-[/alisonedwina.com/]https://doh.pub/dns-query
 [/alisports.com/]https://doh.pub/dns-query
 [/alitchina.com/]https://doh.pub/dns-query
 [/alithefox.net/]https://doh.pub/dns-query
@@ -8664,7 +8660,6 @@
 [/alwindoor.com/]https://doh.pub/dns-query
 [/alxw.com/]https://doh.pub/dns-query
 [/alyisheng.com/]https://doh.pub/dns-query
-[/alyssaeileen.com/]https://doh.pub/dns-query
 [/alyzq.com/]https://doh.pub/dns-query
 [/am774.com/]https://doh.pub/dns-query
 [/am89.com/]https://doh.pub/dns-query
@@ -10498,6 +10493,7 @@
 [/bdapark.com/]https://doh.pub/dns-query
 [/bdatu.com/]https://doh.pub/dns-query
 [/bdc-rays.com/]https://doh.pub/dns-query
+[/bdcdnimg.com/]https://doh.pub/dns-query
 [/bdchina.com/]https://doh.pub/dns-query
 [/bdcloudapi.com/]https://doh.pub/dns-query
 [/bdclouddns.com/]https://doh.pub/dns-query
@@ -12613,7 +12609,6 @@
 [/caibaopay.com/]https://doh.pub/dns-query
 [/caibeike.com/]https://doh.pub/dns-query
 [/caibowen.net/]https://doh.pub/dns-query
-[/caicaieat.com/]https://doh.pub/dns-query
 [/caichongwang.com/]https://doh.pub/dns-query
 [/caicui.com/]https://doh.pub/dns-query
 [/caidan2.com/]https://doh.pub/dns-query
@@ -15515,7 +15510,6 @@
 [/cloudgfw.com/]https://doh.pub/dns-query
 [/cloudgfw.net/]https://doh.pub/dns-query
 [/cloudglb.com/]https://doh.pub/dns-query
-[/cloudglb.net/]https://doh.pub/dns-query
 [/cloudgoing.com/]https://doh.pub/dns-query
 [/cloudguarding.com/]https://doh.pub/dns-query
 [/cloudhosts.xyz/]https://doh.pub/dns-query
@@ -20862,6 +20856,7 @@
 [/ecsponline.com/]https://doh.pub/dns-query
 [/ecsxs.com/]https://doh.pub/dns-query
 [/ecuc123.net/]https://doh.pub/dns-query
+[/ecukwai.com/]https://doh.pub/dns-query
 [/ecustmde.com/]https://doh.pub/dns-query
 [/ecvv.com/]https://doh.pub/dns-query
 [/ecwan77.net/]https://doh.pub/dns-query
@@ -26440,7 +26435,6 @@
 [/haopeixun.com/]https://doh.pub/dns-query
 [/haopianyi.com/]https://doh.pub/dns-query
 [/haopinku.com/]https://doh.pub/dns-query
-[/haoq.tv/]https://doh.pub/dns-query
 [/haoqiao.com/]https://doh.pub/dns-query
 [/haoqikan.com/]https://doh.pub/dns-query
 [/haoqingjiaju.com/]https://doh.pub/dns-query
@@ -28639,6 +28633,7 @@
 [/huanpingge.com/]https://doh.pub/dns-query
 [/huanqiu.com/]https://doh.pub/dns-query
 [/huanqiuauto.com/]https://doh.pub/dns-query
+[/huanqiuhuamu.com/]https://doh.pub/dns-query
 [/huanqiukexue.com/]https://doh.pub/dns-query
 [/huanqiumil.com/]https://doh.pub/dns-query
 [/huanqiuw.com/]https://doh.pub/dns-query
@@ -29919,6 +29914,7 @@
 [/id6.me/]https://doh.pub/dns-query
 [/idabai.com/]https://doh.pub/dns-query
 [/idachu.com/]https://doh.pub/dns-query
+[/idadt.com/]https://doh.pub/dns-query
 [/idafen.com/]https://doh.pub/dns-query
 [/idaima.com/]https://doh.pub/dns-query
 [/idangdai.com/]https://doh.pub/dns-query
@@ -30293,7 +30289,6 @@
 [/ihuman.com/]https://doh.pub/dns-query
 [/ihumand.com/]https://doh.pub/dns-query
 [/ihungyi.com/]https://doh.pub/dns-query
-[/ihuochaihe.com/]https://doh.pub/dns-query
 [/ihuoqiu.com/]https://doh.pub/dns-query
 [/ihuoyan.com/]https://doh.pub/dns-query
 [/ihuyi.com/]https://doh.pub/dns-query
@@ -41554,7 +41549,6 @@
 [/nihaodd.com/]https://doh.pub/dns-query
 [/nihaotw.com/]https://doh.pub/dns-query
 [/nihaowang.com/]https://doh.pub/dns-query
-[/nihaowua.com/]https://doh.pub/dns-query
 [/nihontu-cn.com/]https://doh.pub/dns-query
 [/nihuwo.net/]https://doh.pub/dns-query
 [/niiceda.com/]https://doh.pub/dns-query
@@ -44091,7 +44085,6 @@
 [/pppie.com/]https://doh.pub/dns-query
 [/pppoevps.com/]https://doh.pub/dns-query
 [/pppoo.com/]https://doh.pub/dns-query
-[/ppppgps.com/]https://doh.pub/dns-query
 [/ppppic.com/]https://doh.pub/dns-query
 [/ppqq.net/]https://doh.pub/dns-query
 [/pps.tv/]https://doh.pub/dns-query
@@ -45976,7 +45969,6 @@
 [/qyled.xyz/]https://doh.pub/dns-query
 [/qymgc.com/]https://doh.pub/dns-query
 [/qyous.com/]https://doh.pub/dns-query
-[/qyqc4s.com/]https://doh.pub/dns-query
 [/qyrb.com/]https://doh.pub/dns-query
 [/qyren168.com/]https://doh.pub/dns-query
 [/qysd.net/]https://doh.pub/dns-query
@@ -47698,7 +47690,6 @@
 [/seekfunbook.com/]https://doh.pub/dns-query
 [/seekhill.com/]https://doh.pub/dns-query
 [/seekonly.net/]https://doh.pub/dns-query
-[/seekpetm.com/]https://doh.pub/dns-query
 [/seekplay.online/]https://doh.pub/dns-query
 [/seelvyou.com/]https://doh.pub/dns-query
 [/seemmo.com/]https://doh.pub/dns-query
@@ -49851,6 +49842,7 @@
 [/sodeog.com/]https://doh.pub/dns-query
 [/sodexo-cn.com/]https://doh.pub/dns-query
 [/sodhef.com/]https://doh.pub/dns-query
+[/sodianwan.com/]https://doh.pub/dns-query
 [/sodino.com/]https://doh.pub/dns-query
 [/sodocloud.com/]https://doh.pub/dns-query
 [/sodocs.net/]https://doh.pub/dns-query
@@ -51080,6 +51072,7 @@
 [/sxszw.net/]https://doh.pub/dns-query
 [/sxthzs.com/]https://doh.pub/dns-query
 [/sxtppm.com/]https://doh.pub/dns-query
+[/sxtqsl.com/]https://doh.pub/dns-query
 [/sxtvs.com/]https://doh.pub/dns-query
 [/sxtybook.com/]https://doh.pub/dns-query
 [/sxuyr2nx.com/]https://doh.pub/dns-query
@@ -52786,7 +52779,6 @@
 [/tjzentan.com/]https://doh.pub/dns-query
 [/tjzfcg.com/]https://doh.pub/dns-query
 [/tjzhongyiyao.com/]https://doh.pub/dns-query
-[/tjzsxl4.com/]https://doh.pub/dns-query
 [/tjzyec.com/]https://doh.pub/dns-query
 [/tk-rays.com/]https://doh.pub/dns-query
 [/tk-xiong.com/]https://doh.pub/dns-query
@@ -52870,7 +52862,6 @@
 [/tmxmall.com/]https://doh.pub/dns-query
 [/tmxxw.com/]https://doh.pub/dns-query
 [/tn2000.com/]https://doh.pub/dns-query
-[/tn597.com/]https://doh.pub/dns-query
 [/tnbz.com/]https://doh.pub/dns-query
 [/tnccdn.com/]https://doh.pub/dns-query
 [/tnet.hk/]https://doh.pub/dns-query
@@ -55052,7 +55043,6 @@
 [/vimicro.com/]https://doh.pub/dns-query
 [/vimiix.com/]https://doh.pub/dns-query
 [/vimiy.com/]https://doh.pub/dns-query
-[/vimjc.com/]https://doh.pub/dns-query
 [/vimlinux.com/]https://doh.pub/dns-query
 [/vims04.com/]https://doh.pub/dns-query
 [/vimsky.com/]https://doh.pub/dns-query
@@ -58741,6 +58731,7 @@
 [/xiadele.com/]https://doh.pub/dns-query
 [/xiadts.com/]https://doh.pub/dns-query
 [/xiadu.com/]https://doh.pub/dns-query
+[/xiafandi.com/]https://doh.pub/dns-query
 [/xiagaoqing.com/]https://doh.pub/dns-query
 [/xiagepian.com/]https://doh.pub/dns-query
 [/xiakeol.com/]https://doh.pub/dns-query
@@ -63170,6 +63161,7 @@
 [/yujunjie.com/]https://doh.pub/dns-query
 [/yujunren.com/]https://doh.pub/dns-query
 [/yujzw.com/]https://doh.pub/dns-query
+[/yukeinfo.com/]https://doh.pub/dns-query
 [/yukhj.com/]https://doh.pub/dns-query
 [/yukicomic.com/]https://doh.pub/dns-query
 [/yukiimall.com/]https://doh.pub/dns-query
@@ -67366,7 +67358,6 @@
 [/1eighty8.com/]https://dns.adguard.com/dns-query
 [/1eighty8bet.com/]https://dns.adguard.com/dns-query
 [/1eightyeightbet.com/]https://dns.adguard.com/dns-query
-[/1fan.asia/]https://dns.adguard.com/dns-query
 [/1hjdc.com/]https://dns.adguard.com/dns-query
 [/1jjdg2.vip/]https://dns.adguard.com/dns-query
 [/1jsa22.vip/]https://dns.adguard.com/dns-query
@@ -67375,7 +67366,6 @@
 [/1lib.org/]https://dns.adguard.com/dns-query
 [/1mobile.com/]https://dns.adguard.com/dns-query
 [/1monsterbeatsbydreus.com/]https://dns.adguard.com/dns-query
-[/1mynews.asia/]https://dns.adguard.com/dns-query
 [/1mynews.com/]https://dns.adguard.com/dns-query
 [/1mynews.net/]https://dns.adguard.com/dns-query
 [/1mynews.tech/]https://dns.adguard.com/dns-query
@@ -69069,7 +69059,6 @@
 [/90983b.com/]https://dns.adguard.com/dns-query
 [/90983c.com/]https://dns.adguard.com/dns-query
 [/90kxw.com/]https://dns.adguard.com/dns-query
-[/90seconds.asia/]https://dns.adguard.com/dns-query
 [/9101010.com/]https://dns.adguard.com/dns-query
 [/911776.com/]https://dns.adguard.com/dns-query
 [/911776b.com/]https://dns.adguard.com/dns-query
@@ -69660,7 +69649,6 @@
 [/ads-twitter.com/]https://dns.adguard.com/dns-query
 [/adsense.com/]https://dns.adguard.com/dns-query
 [/adshoppeevents.com/]https://dns.adguard.com/dns-query
-[/adss.asia/]https://dns.adguard.com/dns-query
 [/adtidy.orgaf/]https://dns.adguard.com/dns-query
 [/adult-cartoon-sex.com/]https://dns.adguard.com/dns-query
 [/adult-empire.com/]https://dns.adguard.com/dns-query
@@ -69797,7 +69785,6 @@
 [/air-nike-shoes.com/]https://dns.adguard.com/dns-query
 [/air-watch.com/]https://dns.adguard.com/dns-query
 [/airasia.com/]https://dns.adguard.com/dns-query
-[/airav.asia/]https://dns.adguard.com/dns-query
 [/airav.vip/]https://dns.adguard.com/dns-query
 [/airav.wiki/]https://dns.adguard.com/dns-query
 [/airav.work/]https://dns.adguard.com/dns-query
@@ -69813,7 +69800,6 @@
 [/airmax360.com/]https://dns.adguard.com/dns-query
 [/airmay.com/]https://dns.adguard.com/dns-query
 [/airport-gov-cn.com/]https://dns.adguard.com/dns-query
-[/airport.brussels/]https://dns.adguard.com/dns-query
 [/airport.com/]https://dns.adguard.com/dns-query
 [/airsextube.com/]https://dns.adguard.com/dns-query
 [/airsupportapp.com/]https://dns.adguard.com/dns-query
@@ -69958,7 +69944,6 @@
 [/alison-chang.com/]https://dns.adguard.com/dns-query
 [/alistapart.com/]https://dns.adguard.com/dns-query
 [/alittlemarket.com/]https://dns.adguard.com/dns-query
-[/alive.bar/]https://dns.adguard.com/dns-query
 [/aliveipc.com/]https://dns.adguard.com/dns-query
 [/aliveitsm.com/]https://dns.adguard.com/dns-query
 [/aliveprofiler.com/]https://dns.adguard.com/dns-query
@@ -70026,7 +70011,6 @@
 [/alohatube.com/]https://dns.adguard.com/dns-query
 [/alotporn.com/]https://dns.adguard.com/dns-query
 [/alpes-himalaya.com/]https://dns.adguard.com/dns-query
-[/alphabet.asia/]https://dns.adguard.com/dns-query
 [/alphabet.biz/]https://dns.adguard.com/dns-query
 [/alphabet.com/]https://dns.adguard.com/dns-query
 [/alphabet.info/]https://dns.adguard.com/dns-query
@@ -70231,7 +70215,6 @@
 [/amyh8588.com/]https://dns.adguard.com/dns-query
 [/amytele.com/]https://dns.adguard.com/dns-query
 [/amz123.com/]https://dns.adguard.com/dns-query
-[/amzn.asia/]https://dns.adguard.com/dns-query
 [/amzn.com/]https://dns.adguard.com/dns-query
 [/amznl.com/]https://dns.adguard.com/dns-query
 [/anaconda.cloud/]https://dns.adguard.com/dns-query
@@ -70464,7 +70447,6 @@
 [/apple-store.wang/]https://dns.adguard.com/dns-query
 [/apple-usa.net/]https://dns.adguard.com/dns-query
 [/apple.com/]https://dns.adguard.com/dns-query
-[/apple.hamburg/]https://dns.adguard.com/dns-query
 [/apple.net/]https://dns.adguard.com/dns-query
 [/apple.news/]https://dns.adguard.com/dns-query
 [/apple.xn--czr694b/]https://dns.adguard.com/dns-query
@@ -70477,8 +70459,6 @@
 [/appleaustralia.com/]https://dns.adguard.com/dns-query
 [/applebk.net/]https://dns.adguard.com/dns-query
 [/applecarbon.com/]https://dns.adguard.com/dns-query
-[/applecare.berlin/]https://dns.adguard.com/dns-query
-[/applecare.hamburg/]https://dns.adguard.com/dns-query
 [/applecare.wang/]https://dns.adguard.com/dns-query
 [/applecensorship.com/]https://dns.adguard.com/dns-query
 [/applecentre.info/]https://dns.adguard.com/dns-query
@@ -70503,9 +70483,7 @@
 [/applehongkong.com/]https://dns.adguard.com/dns-query
 [/appleid-applemx.com/]https://dns.adguard.com/dns-query
 [/appleid-iclou.com/]https://dns.adguard.com/dns-query
-[/appleid.berlin/]https://dns.adguard.com/dns-query
 [/appleid.com/]https://dns.adguard.com/dns-query
-[/appleid.hamburg/]https://dns.adguard.com/dns-query
 [/appleimac.com/]https://dns.adguard.com/dns-query
 [/appleinclegal.com/]https://dns.adguard.com/dns-query
 [/appleinsider.com/]https://dns.adguard.com/dns-query
@@ -70516,15 +70494,11 @@
 [/applelink.com/]https://dns.adguard.com/dns-query
 [/applemagickeyboard.com/]https://dns.adguard.com/dns-query
 [/applemasters.info/]https://dns.adguard.com/dns-query
-[/applemusic.berlin/]https://dns.adguard.com/dns-query
 [/applemusic.com/]https://dns.adguard.com/dns-query
-[/applemusic.hamburg/]https://dns.adguard.com/dns-query
 [/applemusic.wang/]https://dns.adguard.com/dns-query
 [/applemusicconnect.com/]https://dns.adguard.com/dns-query
 [/applemusicfestival.com/]https://dns.adguard.com/dns-query
 [/applemx-icloud.com/]https://dns.adguard.com/dns-query
-[/applenews.berlin/]https://dns.adguard.com/dns-query
-[/applenews.hamburg/]https://dns.adguard.com/dns-query
 [/applenewsformat.com/]https://dns.adguard.com/dns-query
 [/appleone.audio/]https://dns.adguard.com/dns-query
 [/appleone.blog/]https://dns.adguard.com/dns-query
@@ -70541,12 +70515,9 @@
 [/appleonline.com/]https://dns.adguard.com/dns-query
 [/appleonline.net/]https://dns.adguard.com/dns-query
 [/appleoriginalproductions.com/]https://dns.adguard.com/dns-query
-[/applepay.berlin/]https://dns.adguard.com/dns-query
-[/applepay.hamburg/]https://dns.adguard.com/dns-query
 [/applepay.info/]https://dns.adguard.com/dns-query
 [/applepaycash.net/]https://dns.adguard.com/dns-query
 [/applepaymerchantsupplies.info/]https://dns.adguard.com/dns-query
-[/applepaysupplies.berlin/]https://dns.adguard.com/dns-query
 [/applepaysupplies.com/]https://dns.adguard.com/dns-query
 [/applepaysupplies.info/]https://dns.adguard.com/dns-query
 [/applepaysupplies.net/]https://dns.adguard.com/dns-query
@@ -70634,7 +70605,6 @@
 [/areca-backup.org/]https://dns.adguard.com/dns-query
 [/areload.com/]https://dns.adguard.com/dns-query
 [/arelong.com/]https://dns.adguard.com/dns-query
-[/arena.taipei/]https://dns.adguard.com/dns-query
 [/arewereadyyet.com/]https://dns.adguard.com/dns-query
 [/arexv.com/]https://dns.adguard.com/dns-query
 [/areyoucreditwise.com/]https://dns.adguard.com/dns-query
@@ -70994,7 +70964,6 @@
 [/awstrust.com/]https://dns.adguard.com/dns-query
 [/ax/]https://dns.adguard.com/dns-query
 [/ax1x.com/]https://dns.adguard.com/dns-query
-[/axin.asia/]https://dns.adguard.com/dns-query
 [/axios.com/]https://dns.adguard.com/dns-query
 [/axureformac.com/]https://dns.adguard.com/dns-query
 [/axxx.com/]https://dns.adguard.com/dns-query
@@ -71052,8 +71021,6 @@
 [/azurespeed.com/]https://dns.adguard.com/dns-query
 [/azurestackvalidation.com/]https://dns.adguard.com/dns-query
 [/azurewebsites.net/]https://dns.adguard.com/dns-query
-[/b-ok.asia/]https://dns.adguard.com/dns-query
-[/b-ok.lat/]https://dns.adguard.com/dns-query
 [/b0775xpj.com/]https://dns.adguard.com/dns-query
 [/b0ne.com/]https://dns.adguard.com/dns-query
 [/b1000.com/]https://dns.adguard.com/dns-query
@@ -71349,7 +71316,6 @@
 [/bc8066.com/]https://dns.adguard.com/dns-query
 [/bc99.com/]https://dns.adguard.com/dns-query
 [/bc9969.com/]https://dns.adguard.com/dns-query
-[/bcapps.cat/]https://dns.adguard.com/dns-query
 [/bcbay.com/]https://dns.adguard.com/dns-query
 [/bcbits.com/]https://dns.adguard.com/dns-query
 [/bcchinese.net/]https://dns.adguard.com/dns-query
@@ -72153,7 +72119,6 @@
 [/blogoverflow.com/]https://dns.adguard.com/dns-query
 [/blogs.com/]https://dns.adguard.com/dns-query
 [/blogspaper.org/]https://dns.adguard.com/dns-query
-[/blogspot.cat/]https://dns.adguard.com/dns-query
 [/blogspot.com/]https://dns.adguard.com/dns-query
 [/blogtd.net/]https://dns.adguard.com/dns-query
 [/blogtd.org/]https://dns.adguard.com/dns-query
@@ -72429,7 +72394,6 @@
 [/bobobra.com/]https://dns.adguard.com/dns-query
 [/bobs-tube.com/]https://dns.adguard.com/dns-query
 [/bobwills4homes.com/]https://dns.adguard.com/dns-query
-[/bod.asia/]https://dns.adguard.com/dns-query
 [/bodog.com/]https://dns.adguard.com/dns-query
 [/bodog127.com/]https://dns.adguard.com/dns-query
 [/bodog168.com/]https://dns.adguard.com/dns-query
@@ -73230,7 +73194,6 @@
 [/canonproprinters.com/]https://dns.adguard.com/dns-query
 [/canovel.com/]https://dns.adguard.com/dns-query
 [/canoxzp.site/]https://dns.adguard.com/dns-query
-[/cantonese.asia/]https://dns.adguard.com/dns-query
 [/canvasflip.com/]https://dns.adguard.com/dns-query
 [/canvasopedia.org/]https://dns.adguard.com/dns-query
 [/canview.com/]https://dns.adguard.com/dns-query
@@ -73602,7 +73565,6 @@
 [/chemnetbase.com/]https://dns.adguard.com/dns-query
 [/chenboyo.com/]https://dns.adguard.com/dns-query
 [/cheng.pet/]https://dns.adguard.com/dns-query
-[/chenghuavideo.asia/]https://dns.adguard.com/dns-query
 [/chengmingmag.com/]https://dns.adguard.com/dns-query
 [/chenguangcheng.com/]https://dns.adguard.com/dns-query
 [/chenpokong.com/]https://dns.adguard.com/dns-query
@@ -73927,7 +73889,6 @@
 [/clips4sale.com/]https://dns.adguard.com/dns-query
 [/clipsaoyai.com/]https://dns.adguard.com/dns-query
 [/clipseksi.com/]https://dns.adguard.com/dns-query
-[/clipsex.asia/]https://dns.adguard.com/dns-query
 [/clipsyndicate.com/]https://dns.adguard.com/dns-query
 [/cliti.com/]https://dns.adguard.com/dns-query
 [/cljkkuqf.com/]https://dns.adguard.com/dns-query
@@ -74010,7 +73971,6 @@
 [/cn.com/]https://dns.adguard.com/dns-query
 [/cn1069.org/]https://dns.adguard.com/dns-query
 [/cn1lib.org/]https://dns.adguard.com/dns-query
-[/cna.asia/]https://dns.adguard.com/dns-query
 [/cnabc.com/]https://dns.adguard.com/dns-query
 [/cnamedns.net/]https://dns.adguard.com/dns-query
 [/cnamesvr.com/]https://dns.adguard.com/dns-query
@@ -74184,13 +74144,11 @@
 [/conceptdoppler.org/]https://dns.adguard.com/dns-query
 [/conduit.com/]https://dns.adguard.com/dns-query
 [/coned.com/]https://dns.adguard.com/dns-query
-[/congressrental.asia/]https://dns.adguard.com/dns-query
 [/connect-in-canada.com/]https://dns.adguard.com/dns-query
 [/connect-link.com/]https://dns.adguard.com/dns-query
 [/connectcommerce.info/]https://dns.adguard.com/dns-query
 [/connected-drive.com/]https://dns.adguard.com/dns-query
 [/connectedcommerce.com/]https://dns.adguard.com/dns-query
-[/connectify.asia/]https://dns.adguard.com/dns-query
 [/connectionless.net/]https://dns.adguard.com/dns-query
 [/connectionsacademy.com/]https://dns.adguard.com/dns-query
 [/connectionseducation.com/]https://dns.adguard.com/dns-query
@@ -75062,7 +75020,6 @@
 [/diamondgirlstudio.com/]https://dns.adguard.com/dns-query
 [/dianapost.com/]https://dns.adguard.com/dns-query
 [/dianzidesigns.com/]https://dns.adguard.com/dns-query
-[/diao.asia/]https://dns.adguard.com/dns-query
 [/diaosiqingnian.com/]https://dns.adguard.com/dns-query
 [/diaosisou.com/]https://dns.adguard.com/dns-query
 [/diaoyuislands.org/]https://dns.adguard.com/dns-query
@@ -75204,7 +75161,6 @@
 [/disney-plus.net/]https://dns.adguard.com/dns-query
 [/disney-studio.com/]https://dns.adguard.com/dns-query
 [/disney-studio.net/]https://dns.adguard.com/dns-query
-[/disney.asia/]https://dns.adguard.com/dns-query
 [/disney.com/]https://dns.adguard.com/dns-query
 [/disneyadsales.com/]https://dns.adguard.com/dns-query
 [/disneyarena.com/]https://dns.adguard.com/dns-query
@@ -75442,7 +75398,6 @@
 [/dowjones.com/]https://dns.adguard.com/dns-query
 [/dowjoneson.com/]https://dns.adguard.com/dns-query
 [/download.com/]https://dns.adguard.com/dns-query
-[/downloadall.asia/]https://dns.adguard.com/dns-query
 [/downloadapkfree.com/]https://dns.adguard.com/dns-query
 [/downloadsforipod.com/]https://dns.adguard.com/dns-query
 [/downsx.com/]https://dns.adguard.com/dns-query
@@ -76362,7 +76317,6 @@
 [/espressif.com/]https://dns.adguard.com/dns-query
 [/esri.com/]https://dns.adguard.com/dns-query
 [/est-a-la-masion.com/]https://dns.adguard.com/dns-query
-[/esteticaduende.cat/]https://dns.adguard.com/dns-query
 [/estudiopenthouse.com/]https://dns.adguard.com/dns-query
 [/esu.dog/]https://dns.adguard.com/dns-query
 [/esu.moe/]https://dns.adguard.com/dns-query
@@ -76485,7 +76439,6 @@
 [/express-vpn-links.com/]https://dns.adguard.com/dns-query
 [/express-vpn.com/]https://dns.adguard.com/dns-query
 [/expressnetwork.net/]https://dns.adguard.com/dns-query
-[/expressvpn.asia/]https://dns.adguard.com/dns-query
 [/expressvpn.biz/]https://dns.adguard.com/dns-query
 [/expressvpn.com/]https://dns.adguard.com/dns-query
 [/expressvpn.net/]https://dns.adguard.com/dns-query
@@ -77686,7 +77639,6 @@
 [/freeoz.org/]https://dns.adguard.com/dns-query
 [/freepanchenlama.org/]https://dns.adguard.com/dns-query
 [/freeporn.com/]https://dns.adguard.com/dns-query
-[/freeporno.asia/]https://dns.adguard.com/dns-query
 [/freepornofreeporn.com/]https://dns.adguard.com/dns-query
 [/freepornq.com/]https://dns.adguard.com/dns-query
 [/freeproxies.org/]https://dns.adguard.com/dns-query
@@ -78299,7 +78251,6 @@
 [/georgiapower.com/]https://dns.adguard.com/dns-query
 [/geotestinc.com/]https://dns.adguard.com/dns-query
 [/geotrust.com/]https://dns.adguard.com/dns-query
-[/geppeivpn.asia/]https://dns.adguard.com/dns-query
 [/gequ888.com/]https://dns.adguard.com/dns-query
 [/geraldoatlarge.com/]https://dns.adguard.com/dns-query
 [/gerefoundation.org/]https://dns.adguard.com/dns-query
@@ -78404,7 +78355,6 @@
 [/gg2267.com/]https://dns.adguard.com/dns-query
 [/gg773.net/]https://dns.adguard.com/dns-query
 [/gg911.xyz/]https://dns.adguard.com/dns-query
-[/gga.asia/]https://dns.adguard.com/dns-query
 [/ggcarry.com/]https://dns.adguard.com/dns-query
 [/ggcarry881.com/]https://dns.adguard.com/dns-query
 [/ggcarry888.com/]https://dns.adguard.com/dns-query
@@ -78686,7 +78636,6 @@
 [/google-ch.com/]https://dns.adguard.com/dns-query
 [/google-melange.com/]https://dns.adguard.com/dns-query
 [/google-syndication.com/]https://dns.adguard.com/dns-query
-[/google.berlin/]https://dns.adguard.com/dns-query
 [/google.cat/]https://dns.adguard.com/dns-query
 [/google.cn/]https://dns.adguard.com/dns-query
 [/google.com/]https://dns.adguard.com/dns-query
@@ -78795,7 +78744,6 @@
 [/gotrusted.com/]https://dns.adguard.com/dns-query
 [/gougoubt.org/]https://dns.adguard.com/dns-query
 [/gouri.xyz/]https://dns.adguard.com/dns-query
-[/gov.taipei/]https://dns.adguard.com/dns-query
 [/govforce.com/]https://dns.adguard.com/dns-query
 [/govsm.com/]https://dns.adguard.com/dns-query
 [/govthealth.xyz/]https://dns.adguard.com/dns-query
@@ -78997,7 +78945,6 @@
 [/h2646.com/]https://dns.adguard.com/dns-query
 [/h2porn.com/]https://dns.adguard.com/dns-query
 [/h3285.com/]https://dns.adguard.com/dns-query
-[/h365.asia/]https://dns.adguard.com/dns-query
 [/h385.com/]https://dns.adguard.com/dns-query
 [/h4610.com/]https://dns.adguard.com/dns-query
 [/h5111.com/]https://dns.adguard.com/dns-query
@@ -80255,7 +80202,6 @@
 [/idealmilf.com/]https://dns.adguard.com/dns-query
 [/ideapocket.com/]https://dns.adguard.com/dns-query
 [/idelreal.org/]https://dns.adguard.com/dns-query
-[/idemocracy.asia/]https://dns.adguard.com/dns-query
 [/identrust.com/]https://dns.adguard.com/dns-query
 [/identrust.net/]https://dns.adguard.com/dns-query
 [/idevr.com/]https://dns.adguard.com/dns-query
@@ -80860,7 +80806,6 @@
 [/iqiyi.com/]https://dns.adguard.com/dns-query
 [/iqlinkus.com/]https://dns.adguard.com/dns-query
 [/iqlinkus.net/]https://dns.adguard.com/dns-query
-[/iqq.asia/]https://dns.adguard.com/dns-query
 [/iqq.biz/]https://dns.adguard.com/dns-query
 [/iqq.buzz/]https://dns.adguard.com/dns-query
 [/iqq.cool/]https://dns.adguard.com/dns-query
@@ -81026,7 +80971,6 @@
 [/itunes-radio.net/]https://dns.adguard.com/dns-query
 [/itunes.com/]https://dns.adguard.com/dns-query
 [/itunes.org/]https://dns.adguard.com/dns-query
-[/itunes.rio/]https://dns.adguard.com/dns-query
 [/itunes12days.com/]https://dns.adguard.com/dns-query
 [/itunesessentials.com/]https://dns.adguard.com/dns-query
 [/itunesfestivals.com/]https://dns.adguard.com/dns-query
@@ -81036,7 +80980,6 @@
 [/itunesmatch.com/]https://dns.adguard.com/dns-query
 [/itunesparty.com/]https://dns.adguard.com/dns-query
 [/itunesradio.com/]https://dns.adguard.com/dns-query
-[/itunesradio.rio/]https://dns.adguard.com/dns-query
 [/itunesu.com/]https://dns.adguard.com/dns-query
 [/itunesu.net/]https://dns.adguard.com/dns-query
 [/itweet.net/]https://dns.adguard.com/dns-query
@@ -81268,7 +81211,6 @@
 [/javscreens.com/]https://dns.adguard.com/dns-query
 [/javseeds.com/]https://dns.adguard.com/dns-query
 [/javseen.com/]https://dns.adguard.com/dns-query
-[/javsex.asia/]https://dns.adguard.com/dns-query
 [/javsharing.com/]https://dns.adguard.com/dns-query
 [/javsin.com/]https://dns.adguard.com/dns-query
 [/javtag.com/]https://dns.adguard.com/dns-query
@@ -82072,7 +82014,6 @@
 [/ksmxpj.com/]https://dns.adguard.com/dns-query
 [/kspcoin.com/]https://dns.adguard.com/dns-query
 [/ksyp10.com/]https://dns.adguard.com/dns-query
-[/kto.asia/]https://dns.adguard.com/dns-query
 [/ktrackmp.com/]https://dns.adguard.com/dns-query
 [/ktsf.com/]https://dns.adguard.com/dns-query
 [/ktunnel.com/]https://dns.adguard.com/dns-query
@@ -83266,7 +83207,6 @@
 [/mastodon.host/]https://dns.adguard.com/dns-query
 [/mastodon.social/]https://dns.adguard.com/dns-query
 [/mastodon.xyz/]https://dns.adguard.com/dns-query
-[/mastodont.cat/]https://dns.adguard.com/dns-query
 [/mastovitaazbuka.com/]https://dns.adguard.com/dns-query
 [/mat6tube.com/]https://dns.adguard.com/dns-query
 [/matainja.com/]https://dns.adguard.com/dns-query
@@ -83478,10 +83418,8 @@
 [/meteor.com/]https://dns.adguard.com/dns-query
 [/meteorshowersonline.com/]https://dns.adguard.com/dns-query
 [/methdad.com/]https://dns.adguard.com/dns-query
-[/metro.taipei/]https://dns.adguard.com/dns-query
 [/metronominal.xyz/]https://dns.adguard.com/dns-query
 [/metropolismag.com/]https://dns.adguard.com/dns-query
-[/metropolitana.tokyo/]https://dns.adguard.com/dns-query
 [/metropouloslaw.com/]https://dns.adguard.com/dns-query
 [/metropulsa.org/]https://dns.adguard.com/dns-query
 [/mewe.com/]https://dns.adguard.com/dns-query
@@ -83527,7 +83465,6 @@
 [/miaminewtimes.com/]https://dns.adguard.com/dns-query
 [/mianfen888.com/]https://dns.adguard.com/dns-query
 [/mianvpn.com/]https://dns.adguard.com/dns-query
-[/miaoss.cat/]https://dns.adguard.com/dns-query
 [/miaoss.com/]https://dns.adguard.com/dns-query
 [/miaosss.top/]https://dns.adguard.com/dns-query
 [/mic9.com/]https://dns.adguard.com/dns-query
@@ -83543,7 +83480,6 @@
 [/microsoft-ppe.com/]https://dns.adguard.com/dns-query
 [/microsoft-sap-events.com/]https://dns.adguard.com/dns-query
 [/microsoft-sbs-domains.com/]https://dns.adguard.com/dns-query
-[/microsoft.cat/]https://dns.adguard.com/dns-query
 [/microsoft.com/]https://dns.adguard.com/dns-query
 [/microsoft.net/]https://dns.adguard.com/dns-query
 [/microsoft.red/]https://dns.adguard.com/dns-query
@@ -83796,7 +83732,6 @@
 [/misstibet.com/]https://dns.adguard.com/dns-query
 [/mist.vip/]https://dns.adguard.com/dns-query
 [/mit.net/]https://dns.adguard.com/dns-query
-[/mitao.bar/]https://dns.adguard.com/dns-query
 [/mitao520.com/]https://dns.adguard.com/dns-query
 [/mitao95.com/]https://dns.adguard.com/dns-query
 [/mitbbs.com/]https://dns.adguard.com/dns-query
@@ -84800,7 +84735,6 @@
 [/newsgawakaru.com/]https://dns.adguard.com/dns-query
 [/newsinc.com/]https://dns.adguard.com/dns-query
 [/newsjs.com/]https://dns.adguard.com/dns-query
-[/newsmagazine.asia/]https://dns.adguard.com/dns-query
 [/newsmax.com/]https://dns.adguard.com/dns-query
 [/newsmaxfeednetwork.com/]https://dns.adguard.com/dns-query
 [/newsmaxhealth.com/]https://dns.adguard.com/dns-query
@@ -85278,7 +85212,6 @@
 [/nuzcom.com/]https://dns.adguard.com/dns-query
 [/nvdst.com/]https://dns.adguard.com/dns-query
 [/nverxs.xyz/]https://dns.adguard.com/dns-query
-[/nvidia.asia/]https://dns.adguard.com/dns-query
 [/nvidia.com/]https://dns.adguard.com/dns-query
 [/nvidiaforhp.com/]https://dns.adguard.com/dns-query
 [/nvpn.net/]https://dns.adguard.com/dns-query
@@ -86507,7 +86440,6 @@
 [/podvpn9.com/]https://dns.adguard.com/dns-query
 [/podzone.net/]https://dns.adguard.com/dns-query
 [/podzone.org/]https://dns.adguard.com/dns-query
-[/poetra.asia/]https://dns.adguard.com/dns-query
 [/poetryfoundation.org/]https://dns.adguard.com/dns-query
 [/pogledaj.name/]https://dns.adguard.com/dns-query
 [/pogo.com/]https://dns.adguard.com/dns-query
@@ -86553,7 +86485,6 @@
 [/polymerhk.com/]https://dns.adguard.com/dns-query
 [/polymerproject.org/]https://dns.adguard.com/dns-query
 [/polysolve.com/]https://dns.adguard.com/dns-query
-[/pomf.cat/]https://dns.adguard.com/dns-query
 [/pomiav.com/]https://dns.adguard.com/dns-query
 [/pon.com/]https://dns.adguard.com/dns-query
 [/ponhub.com/]https://dns.adguard.com/dns-query
@@ -87616,7 +87547,6 @@
 [/redtube.org/]https://dns.adguard.com/dns-query
 [/redtubepremium.com/]https://dns.adguard.com/dns-query
 [/redtude.com/]https://dns.adguard.com/dns-query
-[/redwood.asia/]https://dns.adguard.com/dns-query
 [/redxxxvideos.com/]https://dns.adguard.com/dns-query
 [/redzonechannel.com/]https://dns.adguard.com/dns-query
 [/refefw.com/]https://dns.adguard.com/dns-query
@@ -88070,7 +88000,6 @@
 [/sastradana.com/]https://dns.adguard.com/dns-query
 [/satan18av.com/]https://dns.adguard.com/dns-query
 [/saturnvpn.com/]https://dns.adguard.com/dns-query
-[/satyabayu.asia/]https://dns.adguard.com/dns-query
 [/sau60.org/]https://dns.adguard.com/dns-query
 [/sauditimes.com/]https://dns.adguard.com/dns-query
 [/saunaguide88.com/]https://dns.adguard.com/dns-query
@@ -88224,7 +88153,6 @@
 [/searchmagnified.com/]https://dns.adguard.com/dns-query
 [/searchtruth.com/]https://dns.adguard.com/dns-query
 [/sears.com/]https://dns.adguard.com/dns-query
-[/seasidestory.tokyo/]https://dns.adguard.com/dns-query
 [/seasol.org/]https://dns.adguard.com/dns-query
 [/seatguru.com/]https://dns.adguard.com/dns-query
 [/seatosummit.com/]https://dns.adguard.com/dns-query
@@ -88482,7 +88410,6 @@
 [/shadowfly.org/]https://dns.adguard.com/dns-query
 [/shadowsky.xyz/]https://dns.adguard.com/dns-query
 [/shadowsocks-r.com/]https://dns.adguard.com/dns-query
-[/shadowsocks.asia/]https://dns.adguard.com/dns-query
 [/shadowsocks.biz/]https://dns.adguard.com/dns-query
 [/shadowsocks.com/]https://dns.adguard.com/dns-query
 [/shadowsocks.org/]https://dns.adguard.com/dns-query
@@ -88506,7 +88433,6 @@
 [/shambhalasun.com/]https://dns.adguard.com/dns-query
 [/shan-mi.com/]https://dns.adguard.com/dns-query
 [/shangfang.org/]https://dns.adguard.com/dns-query
-[/shanghai.ist/]https://dns.adguard.com/dns-query
 [/shanghaibeerweek.com/]https://dns.adguard.com/dns-query
 [/shanghaiist.com/]https://dns.adguard.com/dns-query
 [/shanghainationalparty.com/]https://dns.adguard.com/dns-query
@@ -89083,7 +89009,6 @@
 [/spankwire.com/]https://dns.adguard.com/dns-query
 [/sparklabs.com/]https://dns.adguard.com/dns-query
 [/spb.com/]https://dns.adguard.com/dns-query
-[/spdh3.bar/]https://dns.adguard.com/dns-query
 [/spdh6.xyz/]https://dns.adguard.com/dns-query
 [/speakerdeck.com/]https://dns.adguard.com/dns-query
 [/spearswms.com/]https://dns.adguard.com/dns-query
@@ -89437,7 +89362,6 @@
 [/stripst.com/]https://dns.adguard.com/dns-query
 [/stronggames.com/]https://dns.adguard.com/dns-query
 [/strongswan.org/]https://dns.adguard.com/dns-query
-[/strongvpn.asia/]https://dns.adguard.com/dns-query
 [/strongvpn.com/]https://dns.adguard.com/dns-query
 [/strongvpn.net/]https://dns.adguard.com/dns-query
 [/strongvpn.org/]https://dns.adguard.com/dns-query
@@ -89667,7 +89591,6 @@
 [/switchcollege.com/]https://dns.adguard.com/dns-query
 [/switchprivacy.com/]https://dns.adguard.com/dns-query
 [/switchprivacy.net/]https://dns.adguard.com/dns-query
-[/switchvpn.asia/]https://dns.adguard.com/dns-query
 [/switchvpn.com/]https://dns.adguard.com/dns-query
 [/switchvpn.net/]https://dns.adguard.com/dns-query
 [/switchyomega.com/]https://dns.adguard.com/dns-query
@@ -89687,7 +89610,6 @@
 [/sy/]https://dns.adguard.com/dns-query
 [/sy0606.com/]https://dns.adguard.com/dns-query
 [/sydneytoday.com/]https://dns.adguard.com/dns-query
-[/sygjp01.bar/]https://dns.adguard.com/dns-query
 [/syhacked.com/]https://dns.adguard.com/dns-query
 [/syinji1.xyz/]https://dns.adguard.com/dns-query
 [/syinji4.xyz/]https://dns.adguard.com/dns-query
@@ -89786,7 +89708,6 @@
 [/takebackyourinternet.com/]https://dns.adguard.com/dns-query
 [/takegoto.com/]https://dns.adguard.com/dns-query
 [/taknai.com/]https://dns.adguard.com/dns-query
-[/talentgroup.asia/]https://dns.adguard.com/dns-query
 [/talentlens.com/]https://dns.adguard.com/dns-query
 [/talesofwisdom.com/]https://dns.adguard.com/dns-query
 [/talgov.com/]https://dns.adguard.com/dns-query
@@ -90177,7 +90098,6 @@
 [/themovs.com/]https://dns.adguard.com/dns-query
 [/thenanfang.com/]https://dns.adguard.com/dns-query
 [/thenation.com/]https://dns.adguard.com/dns-query
-[/thenational.scot/]https://dns.adguard.com/dns-query
 [/thenationalpulse.com/]https://dns.adguard.com/dns-query
 [/thenewamerican.com/]https://dns.adguard.com/dns-query
 [/thenewgirlspooping.com/]https://dns.adguard.com/dns-query
@@ -90599,7 +90519,6 @@
 [/tophdsex.com/]https://dns.adguard.com/dns-query
 [/toplayerserver.com/]https://dns.adguard.com/dns-query
 [/toplistproxy.com/]https://dns.adguard.com/dns-query
-[/topnews.asia/]https://dns.adguard.com/dns-query
 [/toppornsites.com/]https://dns.adguard.com/dns-query
 [/topproxies.org/]https://dns.adguard.com/dns-query
 [/toppt.net/]https://dns.adguard.com/dns-query
@@ -91164,7 +91083,6 @@
 [/u9a9.com/]https://dns.adguard.com/dns-query
 [/u9un.com/]https://dns.adguard.com/dns-query
 [/ua/]https://dns.adguard.com/dns-query
-[/uab.cat/]https://dns.adguard.com/dns-query
 [/ub66.com/]https://dns.adguard.com/dns-query
 [/ub66.net/]https://dns.adguard.com/dns-query
 [/ub8.com/]https://dns.adguard.com/dns-query
@@ -91412,7 +91330,6 @@
 [/usersfiles.com/]https://dns.adguard.com/dns-query
 [/usertrust.com/]https://dns.adguard.com/dns-query
 [/uservoice.com/]https://dns.adguard.com/dns-query
-[/usgfx.asia/]https://dns.adguard.com/dns-query
 [/usgfx.com/]https://dns.adguard.com/dns-query
 [/ushahidi.com/]https://dns.adguard.com/dns-query
 [/ushuarencity.com/]https://dns.adguard.com/dns-query
@@ -91537,7 +91454,6 @@
 [/vajrasecrets.com/]https://dns.adguard.com/dns-query
 [/valeo.com/]https://dns.adguard.com/dns-query
 [/valeursactuelles.com/]https://dns.adguard.com/dns-query
-[/vallen.asia/]https://dns.adguard.com/dns-query
 [/valpak.com/]https://dns.adguard.com/dns-query
 [/valuegb.com/]https://dns.adguard.com/dns-query
 [/valvesoftware.com/]https://dns.adguard.com/dns-query
@@ -91624,7 +91540,6 @@
 [/verilystudyhub.com/]https://dns.adguard.com/dns-query
 [/verilystudywatch.com/]https://dns.adguard.com/dns-query
 [/verilystudywatch.org/]https://dns.adguard.com/dns-query
-[/verisign.asia/]https://dns.adguard.com/dns-query
 [/verisign.biz/]https://dns.adguard.com/dns-query
 [/verisign.com/]https://dns.adguard.com/dns-query
 [/verisign.info/]https://dns.adguard.com/dns-query
@@ -92022,7 +91937,6 @@
 [/vpn-for-china.net/]https://dns.adguard.com/dns-query
 [/vpn-hotspot.com/]https://dns.adguard.com/dns-query
 [/vpn-ninja.net/]https://dns.adguard.com/dns-query
-[/vpn.asia/]https://dns.adguard.com/dns-query
 [/vpn.com/]https://dns.adguard.com/dns-query
 [/vpn.net/]https://dns.adguard.com/dns-query
 [/vpn100.xyz/]https://dns.adguard.com/dns-query
@@ -93331,7 +93245,6 @@
 [/xiaogirls.com/]https://dns.adguard.com/dns-query
 [/xiaohexie.com/]https://dns.adguard.com/dns-query
 [/xiaohouzi.club/]https://dns.adguard.com/dns-query
-[/xiaojiadianmovie.asia/]https://dns.adguard.com/dns-query
 [/xiaoma.org/]https://dns.adguard.com/dns-query
 [/xiaomiyule666.com/]https://dns.adguard.com/dns-query
 [/xiaopv.com/]https://dns.adguard.com/dns-query
@@ -93763,7 +93676,6 @@
 [/yacy.net/]https://dns.adguard.com/dns-query
 [/yadori.club/]https://dns.adguard.com/dns-query
 [/yahaha.xyz/]https://dns.adguard.com/dns-query
-[/yahoo.cat/]https://dns.adguard.com/dns-query
 [/yahoo.com/]https://dns.adguard.com/dns-query
 [/yahoo.net/]https://dns.adguard.com/dns-query
 [/yahooapis.com/]https://dns.adguard.com/dns-query
@@ -94037,7 +93949,6 @@
 [/youtrannytube.com/]https://dns.adguard.com/dns-query
 [/youtube-nocookie.com/]https://dns.adguard.com/dns-query
 [/youtube-to-mp3.org/]https://dns.adguard.com/dns-query
-[/youtube.cat/]https://dns.adguard.com/dns-query
 [/youtube.com/]https://dns.adguard.com/dns-query
 [/youtube.soy/]https://dns.adguard.com/dns-query
 [/youtubecisco.com/]https://dns.adguard.com/dns-query

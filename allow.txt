@@ -798,7 +798,6 @@
 @@||31vcd.com/player/kuyun.js
 @@||321sprzedane.pl/public/bundle/*/CookieConsent*.js
 @@||3332222.ru/cookie-popup.$script,stylesheet
-@@||360.cn^
 @@||360buyimg.com/ad/$domain=jd.com
 @@||360buyimg.com/ads/$domain=jd.com
 @@||360buyimg.com/item/unite/$script,domain=item.jd.com
@@ -2247,7 +2246,6 @@
 @@||anyhentai.com/*.mp4?st=$stealth
 @@||anyknew.com^$generichide
 @@||anymedia.lv/js/adblocker.js
-@@||anymind360.com/js/*/ats.js$domain=automaton-media.com
 @@||anyporn.com/ads.js
 @@||anyporn.com/get_file^
 @@||anyporn.com/js/functions.js
@@ -6349,7 +6347,6 @@
 @@||envoy.com/images/*/reddit.png
 @@||eolinker.com^$generichide
 @@||eonline.com/includes/js/sitecatalyst/s_all.jsp
-@@||ephoto360.com/js/blockadblock.js
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
 @@||epiotrkow.pl/js/reklama.js
 @@||episode.pmcontent.com^$stealth
@@ -7233,7 +7230,6 @@
 @@||g7t7z7m6.stackpathcdn.com/js/ads.js
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
 @@||gabe.it.gemius.pl/gemiuslib.js$app=com.saipm.dh|com.twipemobile.laderniereheure|com.vlan.capteo|be.rossel.sudpresse.sports|be.rossel.lesoir.sports|be.rossel.westtoer|com.audaxis.mobile.sudpresse.lameuse|com.audaxis.mobile.sudpresse.lacapitale|com.audaxis.mobile.sudpresse.laprovince|com.audaxis.mobile.sudpresse.lanouvellegazette|com.audaxis.mobile.sudpresse.nordeclair|be.lesoir.geeko|be.lesoir.goToJo|be.rossel.android.communales|be.sudpresse.blogs|be.sudpresse.reader|be.vlan.reader|com.rossel.hslesoir|com.audaxis.mobile.sudpresse|be.rossel.soirmag|com.rosselfestival|be.appsolution.lesoir|com.twipemobile.lalibreplus|com.tapptic.cinebel|com.tapptic.lalibre|be.twizz
-@@||gadgets360.com/*ad$script
 @@||gadzetomania.pl^$generichide
 @@||gagetmatome.com^$ghide
 @@||gahu.hit.gemius.pl/gplayer.js$domain=mafab.hu
@@ -8847,7 +8843,6 @@
 @@||hbopenbid.pubmatic.com/translator$domain=aternos.org
 @@||hbopenbid.pubmatic.com/translator?source=prebid-client$xhr,domain=aternos.org
 @@||hbu.cn^*/ad.css?$stylesheet
-@@||hc360.com/ad/*.css
 @@||hcaptcha.com/*/api.js
 @@||hcaptcha.com/captcha/$script,subdocument
 @@||hcaptcha.com^*/api.js
@@ -11074,7 +11069,6 @@
 @@||lprs*.fr/assets/js/lib/squid/smarttag.js$domain=leparisien.fr
 @@||lr-ingest.io/logger.min.js$script,domain=pumpkin.care
 @@||lshstream.xyz/hls/$xmlhttprequest
-@@||lshstream.xyz/hls/ga4/$xmlhttprequest
 @@||lsi.com^*/google-analytics.js
 @@||lswcdn.net^$stealth
 @@||ltzn.9377.com^
@@ -12795,7 +12789,6 @@
 @@||p-l.play.aiseet.atianqi.com^
 @@||p.d.*.com/v1/*/ad$script
 @@||p.d.1emn.com^$script,domain=hotair.com
-@@||p.jwpcdn.com/*/googima.js$domain=kar360.com
 @@||p.jwpcdn.com/*/jwplayer.html5.js$domain=milfzr.com
 @@||p.jwpcdn.com/*/jwplayer.j$domain=milfzr.com
 @@||p.jwpcdn.com/*/jwpsrv.js$domain=milfzr.com
@@ -14243,7 +14236,6 @@
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@||qctimes.com^$ghide
 @@||qhimg.com^*/monitor_analytic.
-@@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn
 @@||qhres2.com^
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one
 @@||qiantucdn.com/static/images/adsbygoogle.js
@@ -15666,7 +15658,6 @@
 @@||shorttey.link/js/prebid-ads.js
 @@||shorttey.org/js/prebid-ads.js
 @@||shortzon.com^$generichide
-@@||shouji.360.cn^
 @@||shoutcast.hubu.fm/stats?sid=$script,~third-party
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
@@ -17171,7 +17162,6 @@
 @@||textovisia.com/js/prebid-ads.js
 @@||texturetrick.com^$script,xmlhttprequest
 @@||tf-robots.nl^$elemhide,jsinject,content
-@@||tf.360.cn/e/wb?
 @@||tf1.fr/public/*-share-$script,~third-party
 @@||tf1.fr^$ghide
 @@||tfc.tv/Scripts/*ads.js
@@ -17473,7 +17463,6 @@
 @@||topserialy.to/js/advertisements.js$domain=topserialy.to
 @@||topspeed.com^$ghide
 @@||topsport.bg^$ghide
-@@||toptech360.com^$generichide
 @@||toptechtalk.xyz^$generichide
 @@||toptv.cloud^$generichide
 @@||topvideosgay.com^$generichide
